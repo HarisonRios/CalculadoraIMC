@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     input:{
         widht: "90%",
         borderRadius: 50,
-        backgroundColor: "#f6f6f6",
+        backgroundColor: "#A7A6A6",
         height:40,
         margin: 12,
         paddingLeft: 10,
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "center",
         width: "90%",
-        backgroundColor: "#ff0043",
+        backgroundColor: "#1DB954",
         paddingTop: 14,
         paddingBottom: 14,
         marginLeft: 12,
