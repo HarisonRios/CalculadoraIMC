@@ -11,6 +11,7 @@
 ## Tecnologias
 
 React Native
+
 Expo
  
 ## 📝 Licença
